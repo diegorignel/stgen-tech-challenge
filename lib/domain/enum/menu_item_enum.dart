@@ -1,0 +1,1 @@
+enum MenuItem { orders, products }

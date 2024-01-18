@@ -1,0 +1,1 @@
+enum BillStatus { open, payed }
